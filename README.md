@@ -1,5 +1,3 @@
-<p align="center">
-<a href="[https://t.me/rem01schannel](https://t.me/Raphaelgamers)"><img src="https://img.shields.io/badge/Follow-Telegram-white.svg?style=for-the-badge&logo=telegram&logoColor=white&labelColor=222" alt="Join Our Telegram Channel"></a>
 # 💫 About Me:
 I’m an Android kernel tweaker with a passion for optimizing performance,<br>enhancing battery life, and pushing the limits of what mobile hardware can do.<br><br>With deep knowledge of Linux-based systems, I specialize in:<br>- customizing kernel parameters<br>- modifying governors<br>- applying patches to balance power and efficiency<br><br>My work dives deep into:<br>- source code<br>- fine-tuning schedulers<br>- undervolting<br>- building stable, optimized kernels<br><br>Always learning. Always experimenting.<br>Performance should never come at the cost of stability.<br>
 
