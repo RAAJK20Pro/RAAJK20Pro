@@ -12,14 +12,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=RAAJK20Pro&icon=8&color=0)](https://visitcount.itsvg.in)
 
-## **🧋 Cutie Counter**
-<p align="center">
-	<img src="https://moe-counter.glitch.me/get/@RAAJK20Pro?theme=rule34" alt="RAAJK20Pro's cutie counter"/>
- <br><br>
-	<code>People who visit my profile :3 Hehe~ another cutie has been caught
-  </code>
-</p>
-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/RAAJK20Pro) 
 
