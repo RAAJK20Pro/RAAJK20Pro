@@ -31,24 +31,9 @@ Performance should never come at the cost of stability.
 
 # 🛠️ Experience
 
-![Android](https://img.shields.io/badge/Android-107C10?style=for-the-badge&logo=android&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
-![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RAAJK20Pro&theme=dark&hide_border=true&cache_seconds=86400"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAAJK20Pro&layout=compact&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=86400"/>
-
-</div>
+![Linux Kernel](https://img.shields.io/badge/Linux%20Kernel-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Magisk Modules](https://img.shields.io/badge/Magisk%20Modules-00AF9C?style=for-the-badge&logo=android&logoColor=white)
+![System Tuning](https://img.shields.io/badge/System%20Tuning-2563EB?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
@@ -72,6 +57,34 @@ Performance should never come at the cost of stability.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RAAJK20Pro&style=for-the-badge&color=0f172a&label=VISITORS"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://raajk20pro.github.io/index.html">
+  <img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/RAAJK20Pro">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://t.me/RAAJK20Pro">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://discord.com/users/raajk20pro">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://github.com/RAAJK20Pro">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 ---
