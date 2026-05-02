@@ -29,11 +29,12 @@ Performance should never come at the cost of stability.
 
 ---
 
-# 🛠️ Experience
+# Experience
 
 ![Linux Kernel](https://img.shields.io/badge/Linux%20Kernel-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Magisk Modules](https://img.shields.io/badge/Magisk%20Modules-00AF9C?style=for-the-badge&logo=android&logoColor=white)
 ![System Tuning](https://img.shields.io/badge/System%20Tuning-2563EB?style=for-the-badge&logo=android&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell%20Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
