@@ -85,7 +85,7 @@ I’m an Android kernel tweaker focused on optimizing performance, improving eff
 
 ---
 
-## 🔥 GitHub Activity
+## 📉 GitHub Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAAJK20Pro&theme=react-dark&area=true&hide_border=true" width="95%"/>
@@ -96,26 +96,8 @@ I’m an Android kernel tweaker focused on optimizing performance, improving eff
 ## 📫 Let's Connect
 
 <p align="center">
-<a href="https://raajk20pro.github.io/index.html">
-<img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>&nbsp;
-<a href="https://twitter.com/RAAJK20Pro">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>&nbsp;
-<a href="https://t.me/RAAJK20Pro">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>&nbsp;
-<a href="https://discord.com/users/raajk20pro">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>&nbsp;
-<a href="https://github.com/RAAJK20Pro">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
-<div align="center">
+<a href="https://raajk20pro.github.io/index.html"><img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/></a><a href="https://twitter.com/RAAJK20Pro"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a><a href="https://t.me/RAAJK20Pro"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a><a href="https://discord.com/users/raajk20pro"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://github.com/RAAJK20Pro"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>Support<div align="center">
 
 ## 💰 Support
 
