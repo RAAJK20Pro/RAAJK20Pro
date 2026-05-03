@@ -16,7 +16,7 @@
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
 I’m an Android kernel tweaker focused on optimizing performance, improving efficiency, and maintaining system stability.
 
@@ -29,27 +29,55 @@ Performance should never come at the cost of stability.
 
 ---
 
-# Experience
+## ⚙️ Core Expertise
 
-![Linux Kernel](https://img.shields.io/badge/Linux%20Kernel-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Magisk Modules](https://img.shields.io/badge/Magisk%20Modules-00AF9C?style=for-the-badge&logo=android&logoColor=white)
-![System Tuning](https://img.shields.io/badge/System%20Tuning-2563EB?style=for-the-badge&logo=android&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell%20Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/Linux%20Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Magisk%20Modules-00AF9C?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/System%20Tuning-3DDC84?style=for-the-badge&logo=android&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scheduler%20Tuning-FF6F00?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
+---
+
+<table border="0" width="100%" cellspacing="0" cellpadding="10">
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 💻 Systems
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/OpenWRT-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white"/>
+
+</td>
+<td width="34%" valign="top" align="center">
+
+### 🛠️ Tools
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&logo=android&logoColor=white"/>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🧠 Scripting
+
+<img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/ZSH-F15A24?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAAJK20Pro&theme=react-dark&area=true&hide_border=true"/>
-</p>
-
----
-
-## 👀 Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAAJK20Pro&style=for-the-badge&color=0f172a&label=VISITORS"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAAJK20Pro&theme=react-dark&area=true&hide_border=true" width="95%"/>
 </p>
 
 ---
@@ -57,31 +85,38 @@ Performance should never come at the cost of stability.
 ## 📫 Let's Connect
 
 <p align="center">
-
 <a href="https://raajk20pro.github.io/index.html">
-  <img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
+<img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>&nbsp;
 <a href="https://twitter.com/RAAJK20Pro">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>&nbsp;
 <a href="https://t.me/RAAJK20Pro">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>&nbsp;
 <a href="https://discord.com/users/raajk20pro">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>&nbsp;
 <a href="https://github.com/RAAJK20Pro">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+## 💰 Support
+
+<a href="https://paypal.me/RAAJK20Pro">
+<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
 </a>
 
-  #### 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RAAJK20Pro) 
+<br/><br/>
 
-</p>
+<img src="https://komarev.com/ghpvc/?username=RAAJK20Pro&style=for-the-badge&color=0d1117&label=TOTAL+VIEWS&labelColor=0e2340"/>
+
+</div>
 
 ---
 
