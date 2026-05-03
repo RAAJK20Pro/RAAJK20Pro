@@ -73,6 +73,16 @@ I’m an Android kernel tweaker focused on optimizing performance, improving eff
 </tr>
 </table>
 
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+</p>
+
 ---
 
 ## 🔥 GitHub Activity
