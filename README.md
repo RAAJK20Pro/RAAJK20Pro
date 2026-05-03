@@ -25,9 +25,10 @@ I’m an Android kernel tweaker focused on optimizing performance, improving eff
 - Scheduler fine-tuning  
 - Stable kernel builds  
 
-Performance should never come at the cost of stability.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=00C8FF&center=true&vCenter=true&width=620&lines=Performance+should+never+come+at+the+cost+of+stability."/>
+</p>
 
----
 
 ## ⚙️ Core Expertise
 
