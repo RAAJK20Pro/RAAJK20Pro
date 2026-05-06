@@ -51,7 +51,7 @@ I'm an Android kernel tweaker focused on optimizing performance, improving effic
 
 <td width="33%" valign="top" align="center">
 
-### 💻 Systems
+## Systems
 
 <img src="https://skillicons.dev/icons?i=android,linux&theme=dark&perline=2"/>
 
@@ -64,7 +64,7 @@ I'm an Android kernel tweaker focused on optimizing performance, improving effic
 
 <td width="34%" valign="top" align="center">
 
-### 🛠️ Tools
+## Tools
 
 <img src="https://skillicons.dev/icons?i=git,neovim,docker,vscode&theme=dark&perline=4"/>
 
@@ -77,7 +77,7 @@ I'm an Android kernel tweaker focused on optimizing performance, improving effic
 
 <td width="33%" valign="top" align="center">
 
-### 🧠 Scripting
+## Scripting
 
 <img src="https://skillicons.dev/icons?i=bash,c,python&theme=dark&perline=3"/>
 
@@ -104,22 +104,6 @@ I'm an Android kernel tweaker focused on optimizing performance, improving effic
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-
-</p>
-
----
-
-## 📉 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RAAJK20Pro&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=cc0000&icon_color=cc0000&text_color=ffffff" width="49%"/>
-
-<img src="https://streak-stats.demolab.com/?user=RAAJK20Pro&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=cc0000&ring=cc0000&fire=ff4444&currStreakLabel=cc0000&sideLabels=cc0000" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAAJK20Pro&theme=react-dark&area=true&hide_border=true&bg_color=0d1117&color=cc0000&line=cc0000&point=ff4444" width="95%"/>
 
 </p>
 
