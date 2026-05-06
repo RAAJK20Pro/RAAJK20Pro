@@ -123,7 +123,7 @@ I'm an Android kernel tweaker focused on optimizing performance, improving effic
 
 <div align="center">
 
-## 💰 Support
+##  Support
 
 <a href="https://paypal.me/RAAJK20Pro">
 <img src="https://img.shields.io/badge/PayPal-00457C?style=plastic&logo=paypal&logoColor=white"/>
