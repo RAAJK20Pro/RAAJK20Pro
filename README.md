@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:3d0000,75:8b0000,100:cc0000&height=90&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:3d0000,75:8b0000,100:cc0000&height=80&section=header&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -46,7 +46,7 @@ I'm an Android kernel tweaker focused on optimizing performance, improving effic
 
 ---
 
-<table border="0" width="100%" cellspacing="0" cellpadding="10">
+<table border="0" width="100%" cellspacing="0" cellpadding="6">
 <tr>
 
 <td width="33%" valign="top" align="center">
@@ -58,7 +58,6 @@ I'm an Android kernel tweaker focused on optimizing performance, improving effic
 <br/>
 
 <img src="https://img.shields.io/badge/OpenWRT-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white"/>
-<img src="https://img.shields.io/badge/KernelSU-CC0000?style=for-the-badge&logo=linux&logoColor=white"/>
 
 </td>
 
@@ -66,11 +65,12 @@ I'm an Android kernel tweaker focused on optimizing performance, improving effic
 
 ## Tools
 
-<img src="https://skillicons.dev/icons?i=git,neovim,docker,vscode&theme=dark&perline=4"/>
+<img src="https://skillicons.dev/icons?i=git,neovim,docker&theme=dark&perline=3"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/KernelSU-CC0000?style=for-the-badge&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Termux-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/>
 
 </td>
@@ -112,11 +112,11 @@ I'm an Android kernel tweaker focused on optimizing performance, improving effic
 ## 📫 Let's Connect
 
 <p align="center">
-<a href="https://raajk20pro.github.io/index.html"><img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://twitter.com/RAAJK20Pro"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://t.me/RAAJK20Pro"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://discord.com/users/raajk20pro"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://github.com/RAAJK20Pro"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://raajk20pro.github.io/index.html"><img src="https://img.shields.io/badge/Website-2563EB?style=plastic&logo=googlechrome&logoColor=white"/></a>
+<a href="https://twitter.com/RAAJK20Pro"><img src="https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white"/></a>
+<a href="https://t.me/RAAJK20Pro"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=plastic&logo=telegram&logoColor=white"/></a>
+<a href="https://discord.com/users/raajk20pro"><img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white"/></a>
+<a href="https://github.com/RAAJK20Pro"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -126,17 +126,15 @@ I'm an Android kernel tweaker focused on optimizing performance, improving effic
 ## 💰 Support
 
 <a href="https://paypal.me/RAAJK20Pro">
-<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+<img src="https://img.shields.io/badge/PayPal-00457C?style=plastic&logo=paypal&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=RAAJK20Pro&style=for-the-badge&color=0d1117&label=TOTAL+VIEWS&labelColor=0e2340"/>
+<img src="https://komarev.com/ghpvc/?username=RAAJK20Pro&style=plastic&color=cc0000&label=TOTAL+VIEWS"/>
 
 </div>
 
----
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,50:3d0000,100:0d1117&height=90&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,50:3d0000,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
 </div>
