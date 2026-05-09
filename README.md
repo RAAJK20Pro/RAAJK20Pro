@@ -41,7 +41,6 @@ I'm an Android kernel tweaker focused on optimizing performance, improving effic
 <img src="https://img.shields.io/badge/KernelSU-CC0000?style=for-the-badge&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/System%20Tuning-3DDC84?style=for-the-badge&logo=android&logoColor=black"/>
 <img src="https://img.shields.io/badge/Scheduler%20Tuning-FF6F00?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/UCLAMP-STUNE-8A2BE2?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 ---
